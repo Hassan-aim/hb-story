@@ -1,0 +1,8 @@
+node_modules
+dist
+dev.log
+netlify-login.log
+*.local
+.env
+.env.*
+.netlify
